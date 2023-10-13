@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+How do you know?: Performs the slowest when dealing with a randomely sorted list of 50000, but performs significantly better when list is sorted. Thus it obeys the O(n^2) worst case O(n) best case relationship
+sort2 uses: merge sort
+How do you know?: Performs the fastest for a large number of randomised and reversed numbers thus obeying nlog(n) relationship.
+sort3 uses: selection sort
+How do you know?: Scales the worst when using large list of numbers for sorted text. I.e time difference between 5000 and 50000 numbers is the worst. Little time difference between sorted and random
+values as well.
+
+
+
+
